@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/bio", "destination": "/api/bio" }
+  ]
+}
